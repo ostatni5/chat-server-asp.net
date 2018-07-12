@@ -1,0 +1,45 @@
+c:\users\mkrawczyk@ppinf.local\documents\visual studio 2015\Projects\TCPserver\TCPserver\bin\Debug\TCPserver.exe.config
+c:\users\mkrawczyk@ppinf.local\documents\visual studio 2015\Projects\TCPserver\TCPserver\bin\Debug\TCPserver.exe
+c:\users\mkrawczyk@ppinf.local\documents\visual studio 2015\Projects\TCPserver\TCPserver\bin\Debug\TCPserver.pdb
+c:\users\mkrawczyk@ppinf.local\documents\visual studio 2015\Projects\TCPserver\TCPserver\obj\Debug\TCPserver.csprojResolveAssemblyReference.cache
+c:\users\mkrawczyk@ppinf.local\documents\visual studio 2015\Projects\TCPserver\TCPserver\obj\Debug\TCPserver.MainWindow.resources
+c:\users\mkrawczyk@ppinf.local\documents\visual studio 2015\Projects\TCPserver\TCPserver\obj\Debug\TCPserver.Properties.Resources.resources
+c:\users\mkrawczyk@ppinf.local\documents\visual studio 2015\Projects\TCPserver\TCPserver\obj\Debug\TCPserver.csproj.GenerateResource.Cache
+c:\users\mkrawczyk@ppinf.local\documents\visual studio 2015\Projects\TCPserver\TCPserver\obj\Debug\TCPserver.exe
+c:\users\mkrawczyk@ppinf.local\documents\visual studio 2015\Projects\TCPserver\TCPserver\obj\Debug\TCPserver.pdb
+C:\Users\Ostatni5\Desktop\C#\TCPserver\TCPserver\bin\Debug\TCPserver.exe.config
+C:\Users\Ostatni5\Desktop\C#\TCPserver\TCPserver\obj\Debug\TCPserver.exe
+C:\Users\Ostatni5\Desktop\C#\TCPserver\TCPserver\obj\Debug\TCPserver.pdb
+C:\Users\Ostatni5\Desktop\C#\TCPserver\TCPserver\bin\Debug\TCPserver.exe
+C:\Users\Ostatni5\Desktop\C#\TCPserver\TCPserver\bin\Debug\TCPserver.pdb
+C:\Users\Ostatni5\Desktop\C#\TCPserver\TCPserver\obj\Debug\TCPserver.csprojResolveAssemblyReference.cache
+C:\Users\Ostatni5\Desktop\C#\TCPserver\TCPserver\obj\Debug\TCPserver.MainWindow.resources
+C:\Users\Ostatni5\Desktop\C#\TCPserver\TCPserver\obj\Debug\TCPserver.Properties.Resources.resources
+C:\Users\Ostatni5\Desktop\C#\TCPserver\TCPserver\obj\Debug\TCPserver.csproj.GenerateResource.Cache
+C:\Users\Ostatni5\Desktop\C#\TCPserver\TCPserver\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ostatni5\Desktop\C#\TCPserver\TCPserver\bin\Debug\Newtonsoft.Json.xml
+F:\C#\TCPserver\TCPserver\bin\Debug\TCPserver.exe.config
+F:\C#\TCPserver\TCPserver\obj\Debug\TCPserver.exe
+F:\C#\TCPserver\TCPserver\obj\Debug\TCPserver.pdb
+D:\C#\TCPserver\TCPserver\bin\Debug\TCPserver.exe.config
+D:\C#\TCPserver\TCPserver\obj\Debug\TCPserver.exe
+D:\C#\TCPserver\TCPserver\obj\Debug\TCPserver.pdb
+D:\C#\TCPserver\TCPserver\bin\Debug\TCPserver.exe
+D:\C#\TCPserver\TCPserver\bin\Debug\TCPserver.pdb
+D:\C#\TCPserver\TCPserver\bin\Debug\Newtonsoft.Json.dll
+D:\C#\TCPserver\TCPserver\bin\Debug\Newtonsoft.Json.xml
+D:\C#\TCPserver\TCPserver\obj\Debug\TCPserver.csprojResolveAssemblyReference.cache
+D:\C#\TCPserver\TCPserver\obj\Debug\TCPserver.MainWindow.resources
+D:\C#\TCPserver\TCPserver\obj\Debug\TCPserver.Properties.Resources.resources
+D:\C#\TCPserver\TCPserver\obj\Debug\TCPserver.csproj.GenerateResource.Cache
+F:\SZKOŁA\C#\TCPserver\TCPserver\bin\Debug\TCPserver.exe.config
+F:\SZKOŁA\C#\TCPserver\TCPserver\obj\Debug\TCPserver.exe
+F:\SZKOŁA\C#\TCPserver\TCPserver\obj\Debug\TCPserver.pdb
+F:\SZKOŁA\C#\TCPserver\TCPserver\bin\Debug\TCPserver.exe
+F:\SZKOŁA\C#\TCPserver\TCPserver\bin\Debug\TCPserver.pdb
+F:\SZKOŁA\C#\TCPserver\TCPserver\bin\Debug\Newtonsoft.Json.dll
+F:\SZKOŁA\C#\TCPserver\TCPserver\bin\Debug\Newtonsoft.Json.xml
+F:\SZKOŁA\C#\TCPserver\TCPserver\obj\Debug\TCPserver.csprojResolveAssemblyReference.cache
+F:\SZKOŁA\C#\TCPserver\TCPserver\obj\Debug\TCPserver.MainWindow.resources
+F:\SZKOŁA\C#\TCPserver\TCPserver\obj\Debug\TCPserver.Properties.Resources.resources
+F:\SZKOŁA\C#\TCPserver\TCPserver\obj\Debug\TCPserver.csproj.GenerateResource.Cache
